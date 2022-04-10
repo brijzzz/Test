@@ -12,3 +12,8 @@ num1=20
 num2=10
 Mul=num1*num2
 
+num1=20
+num2=10
+Div=num1/num2
+
+
